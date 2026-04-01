@@ -1,0 +1,12 @@
+Customer:
+Hello, I’d like to request a refund for an item I purchased last week. It arrived damaged.
+Amazon Agent:
+I’m sorry to hear that. Could you please provide the order number and the name of the item?
+Customer:
+Sure, the order number is 123-4567890-1234567, and the item is a Bluetooth speaker.
+Amazon Agent:
+Thank you. I see the order in our system. Since the item arrived damaged, you’re eligible for a return and refund. Would you prefer a replacement or a refund to your original payment method?
+Customer:
+I’d prefer a refund.
+Amazon Agent:
+Understood. I’ve initiated the return process. You’ll receive a prepaid return label via email. Once the item is returned, your refund will be processed within 3–5 business days.
